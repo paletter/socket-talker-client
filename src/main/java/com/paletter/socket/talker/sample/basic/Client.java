@@ -1,10 +1,7 @@
 package com.paletter.socket.talker.sample.basic;
 
-import java.io.OutputStream;
-import java.io.PrintWriter;
 import java.net.Socket;
 
-import com.paletter.iotool.IOReadTool;
 import com.paletter.iotool.IOWriterTool;
 
 public class Client {
